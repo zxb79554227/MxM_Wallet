@@ -1,2 +1,0 @@
-# MxM Wallet FrontEnd
-
