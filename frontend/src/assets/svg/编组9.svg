@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="28px" viewBox="0 0 33 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C8E7FF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C8E7FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="区块链培训" transform="translate(-126.000000, -1811.000000)">
+            <g id="编组-9" transform="translate(116.351511, 1798.911494)">
+                <rect id="矩形备份-11" fill="url(#linearGradient-1)" x="19.6484894" y="18.0885057" width="21" height="20" rx="10"></rect>
+                <path d="M36.1386659,33.5605833 L21.9586065,9 L3,30.1004087 L5.43887147,30.3550635 L36.1386659,33.5605833 Z M8.13736905,28.123236 L21.5159311,13.2332637 L31.5224052,30.5649852 L8.13736905,28.123236 Z" id="椭圆形备份-3" fill="#3F79FE" fill-rule="nonzero" transform="translate(19.569333, 21.280292) rotate(-60.000000) translate(-19.569333, -21.280292) "></path>
+                <rect id="矩形备份-12" fill="url(#linearGradient-2)" x="34.6484894" y="29.0885057" width="8" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
